@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/posts-microservices-frontend/node_modules
+/posts-microservices-frontend/.pnp
+/posts-microservices-frontend/.pnp.js
+
+# testing
+/posts-microservices-frontend/coverage
+
+# production
+/posts-microservices-frontend/build
+
+# misc
+/posts-microservices-frontend/.DS_Store
+/posts-microservices-frontend/.env.local
+/posts-microservices-frontend/.env.development.local
+/posts-microservices-frontend/.env.test.local
+/posts-microservices-frontend/.env.production.local
+
+/posts-microservices-frontend/npm-debug.log*
+/posts-microservices-frontend/yarn-debug.log*
+/posts-microservices-frontend/yarn-error.log*
